@@ -21,8 +21,6 @@ from sklearn.model_selection import KFold
 import matplotlib.pyplot as plt
 
 from use.config import *
-seed_everything(config.SEED)
-
 from use.dataset import *
 
 from fastai.callback.tracker import TrackerCallback
@@ -32,6 +30,8 @@ from use.models import *
 import shutil
 
 """# Train"""
+seed_everything(config.SEED)
+
 gc.collect()
 
 mean = np.array([0.69646434, 0.67500444, 0.69009685])
