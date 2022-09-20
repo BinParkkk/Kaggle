@@ -75,7 +75,6 @@ for fold in range(0, fold_cnt):
                         cbs=MySaveModelCallback(monitor='dice_soft', comp=np.greater,
                                               fname=f'fold_{fold}/{config.model}_fold_{fold}',
                                               every_epoch=False))
-                                                #,at_end=True))
     
     
     save_path = './output/'
