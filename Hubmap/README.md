@@ -6,6 +6,7 @@
  
 * 작업 환경 : AWS, Colab
 
+- - -
 ### 시도 사항
 
 1. efficientNet
@@ -15,10 +16,13 @@
  2. ConvNext
  3. K-net
  4. Deeplabv3+
+- - -
 
 ### Inference
 
-* 앙상블 기법 이용
+* 앙상블 기법 이용- - -
+
+- - -
 
 ### 결과
 
