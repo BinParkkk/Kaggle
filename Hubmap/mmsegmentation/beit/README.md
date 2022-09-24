@@ -1,5 +1,5 @@
 # train
-python ../train.py convnext.py
+python ../train.py beit.py
 
 # Citation
 ```
