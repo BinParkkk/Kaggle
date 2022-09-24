@@ -18,9 +18,12 @@
 
 ### Inference
 
+* 앙상블 기법 이용
 
-* ![제목 없음](https://user-images.githubusercontent.com/106142401/192079286-7d5d6252-5339-43b3-91a9-6b94bc5d149f.png)
+### 결과
 
-* ![KakaoTalk_20220924_114349007](https://user-images.githubusercontent.com/106142401/192079293-bdd4d78d-e576-4854-9e6d-76d643d23cf5.png)
+![제목 없음](https://user-images.githubusercontent.com/106142401/192079286-7d5d6252-5339-43b3-91a9-6b94bc5d149f.png)
+
+![KakaoTalk_20220924_114349007](https://user-images.githubusercontent.com/106142401/192079293-bdd4d78d-e576-4854-9e6d-76d643d23cf5.png)
 
 
