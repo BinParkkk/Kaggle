@@ -2,7 +2,7 @@
 
 ## 최종 선택 모델
 
-** ConvNext **
+*** ConvNext ***
 가장 성능이 좋게 나옴
 
 ## Submission Code (For Ensemble)
