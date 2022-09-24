@@ -1,12 +1,15 @@
 # Kaggle Competition
 
+
 ## 최종 선택 모델
 
-** ConvNext **
-가장 성능이 좋게 나옴
+***ConvNext***   
+* mDice의 점수가 가장 좋고, LB의 값이 가장 높았음
+  
 
-## Submission Code (For Ensemble)
 
+## About Submission Code (For Ensemble)
+- - -
 #### 문제점
 
 1. mmsegmentation은 확률이 아닌, 어떤 클래스인지를 예측하기 때문에 해당 픽셀의 위치에 클래스에 대한 값만 나타남
